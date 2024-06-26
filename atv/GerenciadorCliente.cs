@@ -31,7 +31,7 @@ namespace atv
         {
             foreach (Cliente cliente in clientes)
             {
-               cliente.ExibirDetalhes();
+               cliente.ExibirDetalhes(); 
             }
             
         }
