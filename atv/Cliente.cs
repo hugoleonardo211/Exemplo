@@ -25,7 +25,7 @@ namespace atv
             Console.WriteLine("-----------CLIENTE-------------");
             Console.WriteLine("Nome: "+ Nome);
             Console.WriteLine("Idade: "+ Idade);
-            Console.WriteLine("Id: "+ Id);
+            Console.WriteLine("Id: "+ Id  );
             Console.WriteLine("-------------------------------");
         }
 
