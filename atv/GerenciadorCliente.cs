@@ -29,7 +29,7 @@ namespace atv
 
         public void ListarCliente()    
         {
-            foreach (Cliente cliente in clientes)
+            foreach (Cliente cliente in clientes) 
             {
                cliente.ExibirDetalhes(); 
             }
