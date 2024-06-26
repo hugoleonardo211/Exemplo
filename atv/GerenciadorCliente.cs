@@ -27,7 +27,7 @@ namespace atv
             clientes.Remove(cliente);
         }
 
-        public void ListarCliente()
+        public void ListarCliente() 
         {
             foreach (Cliente cliente in clientes)
             {
