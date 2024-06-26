@@ -2,4 +2,4 @@
 
 GerenciadorCliente p = new GerenciadorCliente();
 Cliente cliente = new Cliente(1, "Hugo", 55);
-cliente.ExibirDetalhes();
+cliente.ExibirDetalhes();iuhojhuo
