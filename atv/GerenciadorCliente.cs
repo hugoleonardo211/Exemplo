@@ -12,7 +12,7 @@ namespace atv
         List<Cliente> clientes = new List<Cliente>();
 
    
-        public GerenciadorCliente()v   
+        public GerenciadorCliente()   
         {
             clientes = new List<Cliente>();
         }
@@ -27,7 +27,7 @@ namespace atv
             clientes.Remove(cliente);
         }
 
-        public void ListarCliente() 
+        public void ListarCliente()    
         {
             foreach (Cliente cliente in clientes)
             {
