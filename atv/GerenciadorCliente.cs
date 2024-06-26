@@ -22,7 +22,7 @@ namespace atv
             clientes.Add(cliente);
         }
 
-        public void ExcluirCliente(Cliente cliente)
+        public void ExcluirCliente(Cliente cliente)v
         {
             clientes.Remove(cliente);
         }
