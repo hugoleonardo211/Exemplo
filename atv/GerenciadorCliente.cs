@@ -12,7 +12,7 @@ namespace atv
         List<Cliente> clientes = new List<Cliente>();
 
    
-        public GerenciadorCliente()
+        public GerenciadorCliente() 
         {
             clientes = new List<Cliente>();
         }
